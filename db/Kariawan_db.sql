@@ -1,0 +1,1 @@
+CREATE TABLE `kariawan`.`kariawan` (`id` INT NOT NULL AUTO_INCREMENT , `fname` VARCHAR(100) NOT NULL , `lname` VARCHAR(100) NOT NULL , `email` VARCHAR(100) NOT NULL , `position` VARCHAR(100) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
