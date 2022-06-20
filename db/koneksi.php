@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db = "kariawan";
+$db = "kariawan";//ubah sesuai dengan nama database yang anda buat.
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
